@@ -1,0 +1,16 @@
+/* Importar estilos del contenedor principal */
+@import url('container.css');
+
+/* Importar estilos de la cabecera */
+@import url('header.css');
+
+/* Importar estilos de la barra lateral */
+@import url('sidebar.css');
+
+/* Importar estilos del contenido principal */
+@import url('main.css');
+
+/* Importar estilos del pie de página */
+@import url('footer.css');
+
+

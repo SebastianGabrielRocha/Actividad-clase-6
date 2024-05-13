@@ -1,0 +1,12 @@
+Se ha proporcionado un ejemplo de una página web que utiliza Flexbox para su diseño. El objetivo de esta actividad es reestructurar el código CSS para mejorar la organización y mantenibilidad del mismo. Deberás seguir los siguientes pasos:
+
+
+
+Separar los Estilos: Crea archivos de estilo separados para cada sección lógica de la página (cabecera, barra lateral, artículo principal y pie de página). Por ejemplo, podrías tener header.css, sidebar.css, main.css y footer.css.
+Utilizar @import: En un nuevo archivo CSS principal (por ejemplo, styles.css), utiliza la regla @import para incluir todos los archivos de estilo que has creado. Asegúrate de que el orden de importación coincida con la estructura lógica de la página.
+Aplicar los Estilos: Modifica el archivo HTML para que solo enlace al archivo CSS principal. Asegúrate de que todos los estilos se apliquen correctamente y que la página se vea como en el ejemplo original.
+Validación: Verifica que tu página sigue siendo funcional y que el diseño no ha cambiado después de la reestructuración del CSS.
+Entrega: Url del repositorio donde se incluya tanto los archivos CSS separados como el archivo HTML modificado.
+
+
+Nota: Esta tarea te ayudará a entender cómo organizar y mantener grandes hojas de estilo en proyectos más complejos, y la importancia de modularizar el código para facilitar la colaboración y el mantenimiento a largo plazo.
